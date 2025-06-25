@@ -144,13 +144,13 @@ curl -X POST http://127.0.0.1:8000/classify -H "Content-Type: application/json" 
 
 
 ## ✅ TODO / Improvements
-- [ ]Add Docker support for deployment
+- [ ] Add Docker support for deployment
 
-- [ ]Add streaming/token-level response generation (for chatbots)
+- [ ] Add streaming/token-level response generation (for chatbots)
 
-- [ ]Support multilingual queries
+- [ ] Support multilingual queries
 
-- [ ]Add feedback endpoint for improving model performance
+- [ ] Add feedback endpoint for improving model performance
 
 
 
